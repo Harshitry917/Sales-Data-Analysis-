@@ -19,8 +19,6 @@ This project analyzes sales data using Excel and Power BI to generate business i
 - Laptop is the most profitable product
 - Seasonal trends observed in monthly sales
 
-## 📸 Dashboard
-(Add your screenshot here)
 
 ## 📁 Files Included
 - Excel dataset
